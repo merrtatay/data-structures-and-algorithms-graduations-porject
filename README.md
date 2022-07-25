@@ -83,9 +83,17 @@ The right subtree of a node contains only nodes with keys greater than the nodeâ
 The left and right subtree each must also be a binary search tree.
 7
 
+
+
+
   7
  /
 5
+
+
+
+
+
 
   7
    /
