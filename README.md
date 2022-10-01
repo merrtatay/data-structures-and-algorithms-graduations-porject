@@ -1,4 +1,4 @@
-# data structures and algorithms graduations-porject
+# data structures and algorithms graduations-project
 [22,27,16,2,18,6] -> Insertion Sort
 
 
